@@ -7,7 +7,11 @@ was really testing.
 ## Index
 
 <!-- index:start -->
-No write-ups yet.
+| Date | Event | Challenge | Category |
+|---|---|---|---|
+| 2026-09-30 | Self-authored practice challenge | [Repeating XOR](writeups/self-authored/self-authored-repeating-xor/README.md) | crypto |
+| 2026-09-30 | Self-authored practice challenge | [ret2win](writeups/self-authored/self-authored-ret2win/README.md) | pwn |
+| 2026-09-30 | Self-authored practice challenge | [Serial Check](writeups/self-authored/self-authored-serial-check/README.md) | rev |
 <!-- index:end -->
 
 ## Layout
